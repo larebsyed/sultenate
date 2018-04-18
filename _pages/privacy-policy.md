@@ -1,14 +1,12 @@
 ---
 ID: 10
 post_title: Privacy Policy
-post_name: privacy-policy
 author: sultenate
-post_date: 2018-03-14 13:30:29
+post_excerpt: ""
 layout: page
-link: >
+permalink: >
   http://sultenate.byethost5.com/privacy-policy/
 published: true
-tags: [ ]
-categories: [ ]
+post_date: 2018-03-14 13:30:29
 ---
 [my_privacy_policy]

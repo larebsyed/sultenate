@@ -1,15 +1,13 @@
 ---
 ID: 12
 post_title: Sample Page
-post_name: sample-page
 author: sultenate
-post_date: 2015-03-09 09:09:00
+post_excerpt: ""
 layout: page
-link: >
+permalink: >
   http://sultenate.byethost5.com/sample-page/
 published: true
-tags: [ ]
-categories: [ ]
+post_date: 2015-03-09 09:09:00
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
