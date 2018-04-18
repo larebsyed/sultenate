@@ -1,14 +1,13 @@
 ---
-ID: 185
+ID: 11
 post_title: Right Sidebar
-post_name: right-sidebar
 author: sultenate
-post_date: 2015-06-17 06:22:56
+post_excerpt: ""
 layout: page
-link: http://sultenate.com/right-sidebar
+permalink: >
+  http://sultenate.byethost5.com/right-sidebar/
 published: true
-tags: [ ]
-categories: [ ]
+post_date: 2015-06-17 06:22:56
 ---
 <blockquote>This page has its layout set to <strong>Right Sidebar</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box. </blockquote>
 Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
