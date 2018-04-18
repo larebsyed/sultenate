@@ -1,12 +1,14 @@
 ---
 ID: 13
 post_title: Terms and Services
+post_name: terms-and-services
 author: sultenate
-post_excerpt: ""
+post_date: 2018-03-14 12:43:02
 layout: page
-permalink: >
+link: >
   http://sultenate.byethost5.com/terms-and-services/
 published: true
-post_date: 2018-03-14 12:43:02
+tags: [ ]
+categories: [ ]
 ---
 [my_terms_of_service]
