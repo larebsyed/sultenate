@@ -1,13 +1,16 @@
 ---
 ID: 21
 post_title: Praesent ornare luctus quam
+post_name: praesent-ornare-luctus-quam
 author: sultenate
-post_excerpt: ""
+post_date: 2015-03-16 06:22:44
 layout: post
-permalink: >
+link: >
   http://sultenate.byethost5.com/blog/2015/03/16/praesent-ornare-luctus-quam/
 published: true
-post_date: 2015-03-16 06:22:44
+tags: [ ]
+categories:
+  - Politics
 ---
 Praesent ornare luctus quam, eget posuere augue semper sit amet. Ut orci dolor, convallis vel nibh sit amet, mollis dictum nunc. Fusce et nulla eu eros accumsan fermentum sed eu turpis. Fusce consectetur cursus erat, sit amet mollis diam dapibus tempus. Curabitur risus tellus, lobortis vitae rutrum dapibus, aliquam sed leo. Aliquam turpis magna, egestas sed dolor eu, pulvinar sollicitudin mi. Aliquam ut risus mollis, tempus felis eu, facilisis arcu. Vivamus tincidunt pulvinar augue, sit amet tempus purus pharetra ac. Quisque eu ante tortor. Morbi ultrices eros vel nisl pulvinar varius.
 
