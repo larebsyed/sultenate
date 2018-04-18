@@ -1,13 +1,15 @@
 ---
 ID: 100
 post_title: No Sidebar Content Centered
+post_name: no-sidebar-content-centered-2
 author: sultenate
-post_excerpt: ""
+post_date: 2015-06-17 06:25:26
 layout: page
-permalink: >
+link: >
   http://sultenate.byethost5.com/no-sidebar-content-centered-2/
 published: true
-post_date: 2015-06-17 06:25:26
+tags: [ ]
+categories: [ ]
 ---
 <blockquote>This page layout is set to <strong>No Sidebar Content Centered</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box. </blockquote>
 Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
