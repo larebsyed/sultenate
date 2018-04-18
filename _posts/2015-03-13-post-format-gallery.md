@@ -1,15 +1,12 @@
 ---
-ID: 309
+ID: 16
 post_title: 'Post Format: Gallery'
-post_name: post-format-gallery
 author: sultenate
-post_date: 2015-03-13 11:40:20
+post_excerpt: ""
 layout: post
-link: >
-  http://sultenate.com/2015/03/post-format-gallery
+permalink: >
+  http://sultenate.byethost5.com/blog/2015/03/13/post-format-gallery/
 published: true
-tags: [ ]
-categories:
-  - General
+post_date: 2015-03-13 11:40:20
 ---
 [gallery size="full" ids="16,17,18,11,6"]
