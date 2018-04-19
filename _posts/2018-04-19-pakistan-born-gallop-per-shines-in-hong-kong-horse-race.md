@@ -1,19 +1,22 @@
 ---
-ID: 2723
+ID: 7
 post_title: >
   Pakistan born gallop-per shines in Hong
   Kong horse race.
-post_name: >
-  pakistan-born-gallop-per-shines-in-hong-kong-horse-race
 author: sultenate
-post_date: 2018-04-19 15:23:17
+post_excerpt: ""
 layout: post
-link: >
-  http://sultenate.com/2018/04/pakistan-born-gallop-per-shines-in-hong-kong-horse-race
+permalink: http://sultenate.rf.gd/?p=7
 published: true
-tags: [ ]
+post_date: 2018-04-19 15:23:17
+tags:
+  - best
+  - gallop
+  - hongkong
+  - horse
+  - pakistan
 categories:
-  - Latest
+  - Uncategorized
 ---
 Pakistan born gallop-per shines in Hong Kong horse race.
 <blockquote>On March 2, 2013, a star was born. Pakistan Star started life at Gestüt Wittekindshof in Sauerland, Germany. We recount the cult hero’s path from raw talent, internet sensation and a racecourse ban for sensationally stopping mid-race – all the while building his status in becoming Hong Kong’s most popular racehorse.
