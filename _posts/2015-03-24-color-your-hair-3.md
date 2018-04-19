@@ -1,12 +1,11 @@
 ---
-ID: 320
+ID: 66
 post_title: Color your Hair
 post_name: color-your-hair-3
 author: sultenate
 post_date: 2015-03-24 06:27:32
 layout: post
-link: >
-  http://sultenate.com/2015/03/color-your-hair-3
+link: http://sultenate.rf.gd/?p=66
 published: true
 tags: [ ]
 categories:
