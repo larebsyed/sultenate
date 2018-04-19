@@ -8,8 +8,7 @@ post_name: >
 author: sultenate
 post_date: 2015-03-16 06:28:33
 layout: post
-link: >
-  http://sultenate.com/2015/03/etiam-eu-orci-luctus-est-pulvinar-egestas-2
+link: http://sultenate.rf.gd/?p=20
 published: true
 tags: [ ]
 categories:
