@@ -5,8 +5,7 @@ post_name: praesent-ornare-luctus-quam-2
 author: sultenate
 post_date: 2015-03-16 06:22:44
 layout: post
-link: >
-  http://sultenate.com/2015/03/praesent-ornare-luctus-quam-2
+link: http://sultenate.rf.gd/?p=21
 published: true
 tags: [ ]
 categories:
