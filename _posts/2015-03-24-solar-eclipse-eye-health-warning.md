@@ -1,12 +1,11 @@
 ---
-ID: 132
+ID: 80
 post_title: 'Solar eclipse: Eye health warning'
 post_name: solar-eclipse-eye-health-warning
 author: sultenate
 post_date: 2015-03-24 09:43:30
 layout: post
-link: >
-  http://sultenate.com/2015/03/solar-eclipse-eye-health-warning
+link: http://sultenate.rf.gd/?p=80
 published: true
 tags: [ ]
 categories:
