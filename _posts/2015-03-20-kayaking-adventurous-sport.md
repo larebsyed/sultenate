@@ -1,12 +1,11 @@
 ---
-ID: 313
+ID: 63
 post_title: 'Kayaking: Adventurous Sport'
 post_name: kayaking-adventurous-sport
 author: sultenate
 post_date: 2015-03-20 06:41:07
 layout: post
-link: >
-  http://sultenate.com/2015/03/kayaking-adventurous-sport
+link: http://sultenate.rf.gd/?p=63
 published: true
 tags: [ ]
 categories:
