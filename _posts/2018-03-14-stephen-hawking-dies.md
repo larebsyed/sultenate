@@ -1,12 +1,11 @@
 ---
-ID: 360
+ID: 92
 post_title: Stephen Hawking dies at the age of 76
 post_name: stephen-hawking-dies
 author: sultenate
 post_date: 2018-03-14 10:53:44
 layout: post
-link: >
-  http://sultenate.com/2018/03/stephen-hawking-dies
+link: http://sultenate.rf.gd/?p=92
 published: true
 tags:
   - bang
