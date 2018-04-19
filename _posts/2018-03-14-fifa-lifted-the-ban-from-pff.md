@@ -1,12 +1,11 @@
 ---
-ID: 363
+ID: 90
 post_title: FIFA lifted the ban from PFF
 post_name: fifa-lifted-the-ban-from-pff
 author: sultenate
 post_date: 2018-03-14 13:24:11
 layout: post
-link: >
-  http://sultenate.com/2018/03/fifa-lifted-the-ban-from-pff
+link: http://sultenate.rf.gd/?p=90
 published: true
 tags:
   - ban
