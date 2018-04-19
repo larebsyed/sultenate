@@ -1,12 +1,11 @@
 ---
-ID: 321
+ID: 74
 post_title: Looks from the Roswana, 2015
 post_name: looks-from-the-aowsana-2015
 author: sultenate
 post_date: 2015-03-24 06:31:54
 layout: post
-link: >
-  http://sultenate.com/2015/03/looks-from-the-aowsana-2015
+link: http://sultenate.rf.gd/?p=74
 published: true
 tags: [ ]
 categories:
