@@ -1,12 +1,11 @@
 ---
-ID: 315
+ID: 62
 post_title: A Paradise for Holiday
 post_name: a-paradise-for-holiday
 author: sultenate
 post_date: 2015-03-20 07:16:59
 layout: post
-link: >
-  http://sultenate.com/2015/03/a-paradise-for-holiday
+link: http://sultenate.rf.gd/?p=62
 published: true
 tags: [ ]
 categories:
