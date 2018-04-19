@@ -1,12 +1,11 @@
 ---
-ID: 314
+ID: 64
 post_title: Thai Fried Noodle
 post_name: thai-fried-noodle
 author: sultenate
 post_date: 2015-03-20 07:09:41
 layout: post
-link: >
-  http://sultenate.com/2015/03/thai-fried-noodle
+link: http://sultenate.rf.gd/?p=64
 published: true
 tags: [ ]
 categories:
