@@ -1,12 +1,11 @@
 ---
-ID: 346
+ID: 88
 post_title: Who is Sadiq Sanjrani?
 post_name: who-is-sadiq-sanjrani
 author: sultenate
 post_date: 2018-03-13 18:45:55
 layout: post
-link: >
-  http://sultenate.com/2018/03/who-is-sadiq-sanjrani
+link: http://sultenate.rf.gd/?p=88
 published: true
 tags:
   - balochistan
