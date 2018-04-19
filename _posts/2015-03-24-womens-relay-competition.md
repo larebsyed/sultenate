@@ -4,14 +4,8 @@ post_title: 'Women&#8217;s Relay Competition'
 post_name: womens-relay-competition
 author: sultenate
 post_date: 2015-03-24 07:48:42
-post_excerpt: >
-  The young team of Franziska Hildebrand,
-  Franziska Preuss, Vanessa Hinz and
-  Dahlmeier clocked 1 hour, 11 minutes,
-  54.6 seconds to beat France
 layout: post
-link: >
-  http://sultenate.com/2015/03/womens-relay-competition
+link: http://sultenate.rf.gd/?p=85
 published: true
 tags: [ ]
 categories:
