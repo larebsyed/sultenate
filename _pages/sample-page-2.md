@@ -1,12 +1,11 @@
 ---
-ID: 104
+ID: 51
 post_title: Sample Page
 post_name: sample-page-2
 author: sultenate
 post_date: 2015-03-09 09:09:00
 layout: page
-link: >
-  http://sultenate.byethost5.com/sample-page-2/
+link: http://sultenate.rf.gd/?page_id=51
 published: true
 tags: [ ]
 categories: [ ]
