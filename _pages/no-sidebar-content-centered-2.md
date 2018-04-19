@@ -1,12 +1,11 @@
 ---
-ID: 100
+ID: 47
 post_title: No Sidebar Content Centered
 post_name: no-sidebar-content-centered-2
 author: sultenate
 post_date: 2015-06-17 06:25:26
 layout: page
-link: >
-  http://sultenate.byethost5.com/no-sidebar-content-centered-2/
+link: http://sultenate.rf.gd/?page_id=47
 published: true
 tags: [ ]
 categories: [ ]
