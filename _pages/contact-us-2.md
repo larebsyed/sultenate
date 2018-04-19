@@ -1,12 +1,11 @@
 ---
-ID: 98
+ID: 44
 post_title: Contact Us
 post_name: contact-us-2
 author: sultenate
 post_date: 2018-02-09 10:40:06
 layout: page
-link: >
-  http://sultenate.byethost5.com/contact-us-2/
+link: http://sultenate.rf.gd/?page_id=44
 published: true
 tags: [ ]
 categories: [ ]
