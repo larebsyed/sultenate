@@ -1,12 +1,11 @@
 ---
-ID: 103
+ID: 50
 post_title: Right Sidebar
 post_name: right-sidebar-2
 author: sultenate
 post_date: 2015-06-17 06:22:56
 layout: page
-link: >
-  http://sultenate.byethost5.com/right-sidebar-2/
+link: http://sultenate.rf.gd/?page_id=50
 published: true
 tags: [ ]
 categories: [ ]
