@@ -1,12 +1,11 @@
 ---
-ID: 353
+ID: 91
 post_title: Islamabad United beat Multan Sultans
 post_name: islamabad-united-beat-multan-sultans
 author: sultenate
 post_date: 2018-03-14 02:50:18
 layout: post
-link: >
-  http://sultenate.com/2018/03/islamabad-united-beat-multan-sultans
+link: http://sultenate.rf.gd/?p=91
 published: true
 tags:
   - isl
