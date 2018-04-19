@@ -1,12 +1,11 @@
 ---
-ID: 101
+ID: 48
 post_title: No Sidebar Full Width
 post_name: no-sidebar-full-width-2
 author: sultenate
 post_date: 2015-06-17 06:24:41
 layout: page
-link: >
-  http://sultenate.byethost5.com/no-sidebar-full-width-2/
+link: http://sultenate.rf.gd/?page_id=48
 published: true
 tags: [ ]
 categories: [ ]
