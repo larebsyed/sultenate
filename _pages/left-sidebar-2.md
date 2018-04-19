@@ -1,12 +1,11 @@
 ---
-ID: 99
+ID: 46
 post_title: Left Sidebar
 post_name: left-sidebar-2
 author: sultenate
 post_date: 2015-06-17 06:20:31
 layout: page
-link: >
-  http://sultenate.byethost5.com/left-sidebar-2/
+link: http://sultenate.rf.gd/?page_id=46
 published: true
 tags: [ ]
 categories: [ ]
