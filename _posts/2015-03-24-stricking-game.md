@@ -1,12 +1,11 @@
 ---
-ID: 84
+ID: 82
 post_title: Stricking Game
 post_name: stricking-game
 author: sultenate
 post_date: 2015-03-24 07:06:22
 layout: post
-link: >
-  http://sultenate.com/2015/03/stricking-game
+link: http://sultenate.rf.gd/?p=82
 published: true
 tags: [ ]
 categories:
