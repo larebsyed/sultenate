@@ -3,7 +3,7 @@ ID: 2726
 post_title: >
   Pakistan born gallop-per shines in Hong
   Kong horse race.
-author: ""
+author: sultenate
 post_excerpt: ""
 layout: post
 permalink: >
