@@ -3,7 +3,7 @@ ID: 2729
 post_title: >
   Pakistan Warns Against Putting Country
   on Global Terror Financial Watchlist
-author: ""
+author: sultenate
 post_excerpt: ""
 layout: post
 permalink: >
