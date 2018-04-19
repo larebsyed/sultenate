@@ -1,12 +1,11 @@
 ---
-ID: 114
+ID: 72
 post_title: Invention of Advance Technology
 post_name: invention-of-advance-technology
 author: sultenate
 post_date: 2015-03-24 07:47:05
 layout: post
-link: >
-  http://sultenate.com/2015/03/invention-of-advance-technology
+link: http://sultenate.rf.gd/?p=72
 published: true
 tags: [ ]
 categories:
