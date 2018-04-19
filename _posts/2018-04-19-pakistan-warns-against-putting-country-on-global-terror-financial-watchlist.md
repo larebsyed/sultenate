@@ -1,19 +1,20 @@
 ---
-ID: 42
+ID: 2729
 post_title: >
   Pakistan Warns Against Putting Country
   on Global Terror Financial Watchlist
-author: sultenate
+author: ""
 post_excerpt: ""
 layout: post
-permalink: http://sultenate.rf.gd/?p=42
+permalink: >
+  http://sultenate.com/2018/04/pakistan-warns-against-putting-country-on-global-terror-financial-watchlist
 published: true
 post_date: 2018-04-19 21:06:55
 tags:
   - counter
   - pakistan
   - terrorism
-  - usa
+  - USA
   - warned
 categories:
   - Latest
