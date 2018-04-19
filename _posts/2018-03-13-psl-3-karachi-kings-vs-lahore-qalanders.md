@@ -5,8 +5,7 @@ post_name: psl-3-karachi-kings-vs-lahore-qalanders
 author: sultenate
 post_date: 2018-03-13 10:39:52
 layout: post
-link: >
-  http://sultenate.com/2018/03/psl-3-karachi-kings-vs-lahore-qalanders
+link: http://sultenate.rf.gd/?p=50
 published: true
 tags: [ ]
 categories:
@@ -25,4 +24,3 @@ Lahore Qalanders chased the target with 2 wickets in hand and 20th hour.
 Lahore Qalander set the target of 12 in 6 balls with the loss of one wicket.
 
 Karachi King were only able to chase till 8 with a six in the end from Shahid Afridi
-
